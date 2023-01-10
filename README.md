@@ -1,2 +1,2 @@
-# -my-Project-
+# my-Project
 java project
